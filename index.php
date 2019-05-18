@@ -10,8 +10,7 @@
 		<center>
 			<div class="header"><img src="IMG/SERVER/logo.png" width="8%" height="80%" style="margin-top:1%; margin-left:10px;"><img src="IMG/SERVER/secondLogo.png" width="60%" height="80%" style="margin-top:1%; margin-left:10px;"></div>
 			<br><br><br><h1 style="font-family: Arial; font-size: 40px;">Главная!</h1></center>
-			<div>
-			<div style="float:left; width:17%; height:390%;background:#f40f40; margin:-15px; text-align:center;">
+			<div style="float:left; width:17%; height:412.7%;background:#f40f40; margin:-15px; text-align:center;position:relative; z-index: 2;">
 			<br>
 			<a href="/HTML/g_comment.html">&lt;!-- --&gt;</a><br>
 			<a href="/HTML/g_a.html">&lt;a&gt;</a><br>
@@ -143,11 +142,13 @@
 			<a href="/HTML/g_video.html">&lt;video&gt;</a><br>
 			<a href="/HTML/g_wbr.html">&lt;wbr&gt;</a><br>
 			<a href="/HTML/g_xmp.html">&lt;xmp&gt;</a><br>
+			<p>В языке программирования HTML 135 тегов</p>
 			</div><div><center>
-			<h4 style="color:#00003f; margin-left: -100px">Приветствуем вас на нашем сайте! Он сделан для тех, кто <br>хочет повторить язык программирования html, или узнать его основы.</h4>
+			<h4 style="color:#00003f; margin-left: -100px; text-align:center; z-index:2; position:relative; left:-80px;">Приветствуем вас на нашем сайте! Он сделан для тех, кто <br>хочет повторить язык программирования html, или узнать его основы.</h4>
+			<div style="width:150px; height:150px; border:1px solid #e2f2c6; font-size:17px;padding:70px;">На этом сайте вы узнаете то что...</div>
 		</center></div>
-		<div style="width:100%; height:20%; background:#dc565c; margin-top:185%">
-		<p>Ля-ля-ля, ля-ля-ля, все права не защищены (c)</p>
+		<div style="top:-1000000000000000px;width:100%; height:20%; background:#f40f40; margin-top:185%; text-align:center;">
+		<p style="padding-top: 3%; font-size:13px; color:#e2a81d;">Права лева лева и права трынь<br>трава и два дровосека два дровокола-дроворуба<br> для разчуствовавшейся Варвары выдворили дрова в ширь двора обратно <br>на дровяной двор где цапля чахла, цапля сохла, цапля сдохла. <br>Все права не защищены (c)</p>
 		</div>
 	</body>
 </html>
