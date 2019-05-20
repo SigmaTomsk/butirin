@@ -142,13 +142,19 @@
 			<a href="/HTML/g_video.html">&lt;video&gt;</a><br>
 			<a href="/HTML/g_wbr.html">&lt;wbr&gt;</a><br>
 			<a href="/HTML/g_xmp.html">&lt;xmp&gt;</a><br>
-			<p>В языке программирования HTML 135 тегов</p>
 			</div><div><center>
 			<h4 style="color:#00003f; margin-left: -100px; text-align:center; z-index:2; position:relative; left:-80px;">Приветствуем вас на нашем сайте! Он сделан для тех, кто <br>хочет повторить язык программирования html, или узнать его основы.</h4>
-			<div style="width:150px; height:150px; border:1px solid #e2f2c6; font-size:17px;padding:70px;">На этом сайте вы узнаете то что...</div>
+			<div style="margin-left:300px"><div style="border-radius:100px;width:170px;border:2px solid #e2f2c6; font-size:17px;float:left; margin:0px 0px 0px 200px;"><p style="padding:70px 0px 70px 0px;">На этом сайте вы узнаете то что...</p></div><div style="border-radius:100px;width:170px;border:2px solid #e2f2c6; font-size:17px;"><p style="padding:70px 0px 70px 0px;">Язык программирования HTML состоит из 135 тегов,</p></div><br><div style="border-radius:100px;float:left;width:170px;border:2px solid #e2f2c6; font-size:17px; margin:0px 0px 0px 200px;"><p style="padding:70px 0px 70px 0px;">Самая первая Web-страница находится по ссылке <a href="info.cern.ch/hypertext/WWW/TheProject.html">info.cern.ch/hypertext/<br>WWW/TheProject.html</a></p></div><div style="border-radius:100px;width:170px;border:2px solid #e2f2c6; font-size:17px;float:leftl"><p style="padding:70px 0px 70px 0px;">Язык программирования Html был создан Консорциумом Всемирной паутины, Инженерным советом Интернета и WHATWG</p></div></div>
 		</center></div>
-		<div style="top:-1000000000000000px;width:100%; height:20%; background:#f40f40; margin-top:185%; text-align:center;">
-		<p style="padding-top: 3%; font-size:13px; color:#e2a81d;">Права лева лева и права трынь<br>трава и два дровосека два дровокола-дроворуба<br> для разчуствовавшейся Варвары выдворили дрова в ширь двора обратно <br>на дровяной двор где цапля чахла, цапля сохла, цапля сдохла. <br>Все права не защищены (c)</p>
+		<h2 style="margin-left:500px">А так же чтобы вам не было скучно я оставил тут<br> вам одно видео чтобы вы посмотрели.</h2>
+		<br>
+		<br>
+		<br>
+		<br>
+		<iframe style="margin-left:300px" width="560" height="315" src="https://www.youtube.com/embed/ZhZsMjf2pF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<div style="top:-1000000000000000px;width:100%; height:20%; background:#f40f40; margin-top:138.8%; text-align:center;">
+		<p style="padding-top: 3%; font-size:13px; color:#e2a81d; margin-top:-500px">Права лева лева и права трынь<br>трава и два дровосека два дровокола-дроворуба<br> для разчуствовавшейся Варвары выдворили дрова в ширь двора обратно <br>на дровяной двор где цапля чахла, цапля сохла, цапля сдохла. <br>Все права не защищены (c)</p>
 		</div>
+		
 	</body>
 </html>
